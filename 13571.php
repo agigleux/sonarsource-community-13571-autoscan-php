@@ -9,3 +9,5 @@ $result = mysql_query("SELECT * FROM myTable WHERE id = " . $id);
 while ($row = mysql_fetch_object($result)) {
     echo $row->name;
 }
+
+?>
