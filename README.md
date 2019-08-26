@@ -1,0 +1,1 @@
+# sonarsource-community-13571-autoscan-php
